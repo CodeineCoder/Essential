@@ -1,0 +1,15 @@
+TYPE html>
+<html>
+ 
+   <h1>Hello!</h1>
+  <p>Welcome. This is the ongoing web page created by Josh Dennis to learn and play around with coding.</p>
+  <h3>History</h3>
+   <ol>
+    <li>January 10th, 2017: Creation of document and beginning of coding.</li>
+   </ol>
+ <p>Whew, it took awhile to work out, but I finally figured out why my entire doc was a header. Turns out it’s because I typed < h / 1 > instead of < / h 1 > </p>
+ <h2>Shout out to <a href=“https://validator.w3.org/nu/#textarea”>This HTML Validator <3<3<3 </a> </h2>
+ <p>Whewwwww!That was kinda just an excuse to do a hyperlink. Pretty fun though. I’m gonna try a button.</p>
+
+
+</html>
